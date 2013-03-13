@@ -106,21 +106,6 @@ increase your reputation within your discipline.</li>
 <p>Don't know if you there's a repository for your research community?  Databib is a good place to start.  
 It's a searchable catalog / registry / directory / bibliography of research data repositories.  See <a href="http://databib.org/index.php">Databib's</a> Web site.  Our team (link to listserv)can also help you find discipline-specific repositories. </p>
 
-<h3>Why make your data citable?</h3>
-<p>
-  "Without evidential data nearly all research is simply a collection of un-supported assertions. In addition, many data have value beyond their original purpose, either as validation / reproducibility activity or as aggregated subunits of larger datasets. There is also increasing evidence that multi disciplinary reuse of data is occurring more often. In all these cases datasets become valuable research objects and constituents of professional impact." (See <a href="http://sagecite.knowledgeblog.org/2011/07/28/why-do-we-need-datacitation/">"So You Want to Cite your Data"</a>, July 28, 2011, : The Consequences of Data Citation 
-</p>
-
-        <h4>DOIs</h4>
-<p>
-DOIs (digital object identifiers) are widely used in scientific publishing to cite journal articles.  They are persistent unique number combinations that can also provide long-term links to data sets.  The Hesburgh Libraries uses this tool XXX to assign your data a DOI.
-</p>
-
-        <h4>Citation formats</h4>
-<p>
-  Standards for citing data are emerging slowing.  DataCite has two very simple recommended formats:  <a href="http://datacite.org/whycitedata">Examples of data citation</a>.  Our team can also help you create a format appropriate for your work.
-</p>
-
 				<!-- TemplateEndEditable -->
 		    </div>
 			<!-- End #single-col -->
